@@ -1,6 +1,3 @@
-/*    N.B. do not allocate memory,
-   instead: return a string literal  */
-
 const char *bmi (int weight, double height)
 {
 
