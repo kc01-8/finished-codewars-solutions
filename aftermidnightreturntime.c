@@ -6,3 +6,4 @@ int past(int hours, int minutes, int seconds) {
 
     return totalMilliseconds;
 }
+
